@@ -33,6 +33,6 @@
         document.getElementsByTagName('input')[5].click();
         document.getElementsByTagName('input')[7].click();
         document.getElementsByTagName('input')[9].click();
-        setTimeout("document.getElementsByTagName('button')[0].click();",500);
+        setTimeout("document.getElementsByTagName('button')[0].click();",10);
     }
 })();
