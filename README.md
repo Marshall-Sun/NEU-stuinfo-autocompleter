@@ -2,12 +2,10 @@
 
 脚本功能
 ====
-
 + 东北大学师生健康信息上报平台的自动填写，自动提交
 
 如何使用
 ====
-
 0. 你的浏览器需要有Tampermonkey插件 [安装教程](https://cloud.tencent.com/developer/news/42462)
 1. 在线安装此脚本 [Greasy Fork在线安装](https://greasyfork.org/zh-CN/scripts/398919-neu-stuinfo-autocompleter)
 2. 登录师生健康信息上报平台 [e-report.neu.edu.cn](https://e-report.neu.edu.cn)
