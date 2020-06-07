@@ -1,4 +1,6 @@
-# NEU-stuinfo-autocompleter v1.6
+# NEU-stuinfo-autocompleter v1.6.1
+
+[![](https://data.jsdelivr.com/v1/package/gh/marshall-sun/NEU-stuinfo-autocompleter/badge)](https://www.jsdelivr.com/package/gh/marshall-sun/NEU-stuinfo-autocompleter)
 
 脚本功能
 ====

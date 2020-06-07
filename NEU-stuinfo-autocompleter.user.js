@@ -2,7 +2,7 @@
 // @name         NEU-stuinfo-autocompleter
 // @namespace    https://e-report.neu.edu.cn/
 // @description  东北大学师生健康信息上报平台的自动填写，自动提交
-// @version      1.6
+// @version      1.6.1
 // @author       Marshall Sun
 // @match        https://e-report.neu.edu.cn/notes/create
 // @match        https://e-report.neu.edu.cn/report/forms/*
