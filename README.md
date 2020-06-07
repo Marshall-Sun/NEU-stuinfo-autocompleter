@@ -1,4 +1,4 @@
-# NEU-stuinfo-autocompleter
+# NEU-stuinfo-autocompleter v1.6
 
 脚本功能
 ====
