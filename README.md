@@ -1,6 +1,5 @@
 # NEU-stuinfo-autocompleter v1.7
 
-[![jsDelivr badge](https://data.jsdelivr.com/v1/package/gh/marshall-sun/NEU-stuinfo-autocompleter/badge)](https://www.jsdelivr.com/package/gh/marshall-sun/NEU-stuinfo-autocompleter)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Marshall-Sun/NEU-stuinfo-autocompleter.svg?logo=lgtm&logoWidth=18&style=flat-square&color=blueviolet)](https://lgtm.com/projects/g/Marshall-Sun/NEU-stuinfo-autocompleter/context:javascript)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/Marshall-Sun/NEU-stuinfo-autocompleter.svg?logo=lgtm&logoWidth=18&style=flat-square&color=blueviolet)](https://lgtm.com/projects/g/Marshall-Sun/NEU-stuinfo-autocompleter/alerts/)
 
