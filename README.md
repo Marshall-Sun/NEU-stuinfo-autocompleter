@@ -1,7 +1,9 @@
-# NEU-stuinfo-autocompleter v1.7.1
+# NEU-stuinfo-autocompleter
 
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Marshall-Sun/NEU-stuinfo-autocompleter.svg?logo=lgtm&logoWidth=18&style=flat-square&color=blueviolet)](https://lgtm.com/projects/g/Marshall-Sun/NEU-stuinfo-autocompleter/context:javascript)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/Marshall-Sun/NEU-stuinfo-autocompleter.svg?logo=lgtm&logoWidth=18&style=flat-square&color=blueviolet)](https://lgtm.com/projects/g/Marshall-Sun/NEU-stuinfo-autocompleter/alerts/)
+![jsDelivr badge](https://data.jsdelivr.com/v1/package/gh/marshall-sun/NEU-stuinfo-autocompleter/badge?style=rounded)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Marshall-Sun/NEU-stuinfo-autocompleter.svg?logo=lgtm&logoWidth=18&color=blueviolet)](https://lgtm.com/projects/g/Marshall-Sun/NEU-stuinfo-autocompleter/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/Marshall-Sun/NEU-stuinfo-autocompleter.svg?logo=lgtm&logoWidth=18&color=blueviolet)](https://lgtm.com/projects/g/Marshall-Sun/NEU-stuinfo-autocompleter/alerts/)
+![version](https://img.shields.io/badge/version-v1.7.1-blue)
 
 ## 脚本功能
 
